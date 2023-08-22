@@ -16,3 +16,6 @@ I though about using recursion and create a more complex and robust solution, ho
 I run of time and I decided to use a simple solution.
 
 I look forward for hearing your critics. Thank you for the opportunity.
+
+### Time consumed
+I took a few hours to bring up this solutions, 4h to be more precise.
