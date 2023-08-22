@@ -1,4 +1,4 @@
-## Be Coding Challenge
+## DiffTool
 
 ### Solution description
 
